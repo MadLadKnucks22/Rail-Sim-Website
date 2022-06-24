@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-user-select: none; /* Chrome all / Safari all */
+  -moz-user-select: none; /* Firefox all */
+  -ms-user-select: none; /* IE 10+ */
+  user-select: none; /* Likely future */
+}
+
+.container {
+  height: 95vh;
+  display: flex;
+  flex-direction: column;
+  /* flex-direction: column;
+  justify-content: right; */
+  align-items: flex-start;
+  justify-content: center;
+  padding-right: 5rem;
+  padding-left: 15rem;
+  overflow: hidden;
+}
+
+.save-track-button{
+  
+}
